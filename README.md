@@ -45,7 +45,7 @@
 
 ## 🔗 Connect
 
-[![Blog](https://img.shields.io/badge/Blog-maomaocong.site-blue?style=for-the-badge&logo=rss)](https://blog.maomaocong.com/)
+[![Blog](https://img.shields.io/badge/Blog-maomaocong.com-blue?style=for-the-badge&logo=rss)](https://blog.maomaocong.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-lfhwnqe-black?style=for-the-badge&logo=github)](https://github.com/lfhwnqe)
 
 ---
