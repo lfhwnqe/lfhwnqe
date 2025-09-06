@@ -1,5 +1,11 @@
 # 📌 Snapshot
 
+## 🏆 Highlights
+
+- First Place at the 2025 Monad Hackathon (Shenzhen)
+- Proficient with agentic coding tools; distilled AI-assisted programming best practices (Claude Code, Kilo Code, Codex CLI, Augment Code, etc.)
+- Build AI-driven workflows; design cloud storage solutions using Upstash and Supabase
+
 ## 🌐 Core Tech Stack
 
 ### ⚡ What I Build
@@ -20,7 +26,7 @@
 - **Models**: Wyckoff 2.0 + Order Flow analytics
 - **Edge**: Systematic market advantage
 
-> **Other Technologies**: Vue 3, NestJS, Three.js, Jotai, TypeScript, and more...
+> **Other Technologies**: Vue, NestJS, Three.js, Jotai, TypeScript, and more...
 
 ---
 
