@@ -52,6 +52,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-maomaocong.site-blue?style=for-the-badge&logo=rss)](https://blog.maomaocong.site/)
 [![GitHub](https://img.shields.io/badge/GitHub-lfhwnqe-black?style=for-the-badge&logo=github)](https://github.com/lfhwnqe)
+[![Email](https://img.shields.io/badge/Email-lfhwnqe@gmail.com-green?style=for-the-badge&logo=google-gmail)](mailto:lfhwnqe@gmail.com)
 
 ---
 
