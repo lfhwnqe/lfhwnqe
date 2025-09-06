@@ -1,3 +1,5 @@
+[点击查看简体中文 README](./README.zh-CN.md)
+
 # 📌 About Me
 
 An AI-driven full‑stack Web3 engineer focused on building modern, AI‑powered web applications. Always exploring and shipping with the newest tech.
@@ -52,7 +54,7 @@ An AI-driven full‑stack Web3 engineer focused on building modern, AI‑powered
 
 [![Blog](https://img.shields.io/badge/Blog-maomaocong.com-blue?style=for-the-badge&logo=rss)](https://blog.maomaocong.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-lfhwnqe-black?style=for-the-badge&logo=github)](https://github.com/lfhwnqe)
-[![Email](https://img.shields.io/badge/Email-lfhwnqe@gmail.com-green?style=for-the-badge&logo=google-gmail)](mailto:lfhwnqe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lfhwnqea@gmail.com-green?style=for-the-badge&logo=google-gmail)](mailto:lfhwnqea@gmail.com)
 
 ---
 
@@ -61,4 +63,3 @@ An AI-driven full‑stack Web3 engineer focused on building modern, AI‑powered
 **Thanks for visiting! Let’s build the future together** 🚀
 
 </div>
-
