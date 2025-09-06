@@ -1,42 +1,41 @@
-# 📌 概览
+# 📌 关于我
+
+一个 AI 驱动的全栈 web3 工程师，专注于构建 AI 驱动的现代化 Web 应用。永远追新的技术男
 
 ## 🏆 履历与亮点
 
+- 精通高性能 Web 开发与无服务器架构：打造的 React/Next.js 微前端应用实现无缝体验与亚秒级 HMR；通过 AWS CDK 架构的无服务器后端确保 <50ms API 响应
 - 2025 年 Monad Hackathon 深圳站第一名
-- 熟练使用 Agentic Code 工具进行编程，提炼基于 AI 编程的最佳实践（Claude Code、Kilo Code、Codex CLI、Augment Code 等）
-- 开发基于 AI 驱动的工作流，使用 Upstash、Supabase 进行云存储方案设计
+- AI 驱动开发：精通 Claude Code、Kilo Code、Codex CLI、Augment Code 等 AI 编程工具；
+- 现代化 AI 应用：构建公司内部客服 Agentic RAG 应用，实现高质量客服服务
 
 ## 🌐 核心技术栈
 
 ### ⚡ 我构建的内容
 
+### 🤖 AI / RAG 系统
+
+- 框架：Mastra 多智能体 + Langchain + Neo4j + Upstash Vector
+- 能力：实时语义检索（rag）+ 图 rag
+
 #### 🚀 现代 Web
+
 - 前端：React · Next.js 15 · 微前端
 - 性能：无缝体验 · 亚秒级 HMR
 
 #### ☁️ 无服务器架构
+
 - 基础设施：AWS CDK · Lambda · Edge Runtime
-- 性能：<50ms API · 具成本效益的扩展
+- 性能：<50ms API · 低成本弹性扩展
+- 成本：弹性扩展，0 压力处理高 qps，闲时 0 成本
 
-#### 🤖 AI / RAG 系统
-- 框架：Mastra 多智能体 + Upstash Vector
-- 能力：实时语义检索
+#### 开源项目
 
-#### 📈 量化交易
-- 模型：Wyckoff 2.0 + 订单流分析
-- 优势：系统化市场优势
+- [现代 SPA 架构](https://github.com/lfhwnqe/spa-temp)
+- [基于 AWS CDK 的 Serverless 模板](https://github.com/lfhwnqe/aws-cdk-nestjs-template)
+- [基于 AWS Amplify 的 Next.js 快速启动管理模板](https://github.com/lfhwnqe/aws-nextjs-amplify-template)
 
-> 其他技术：Vue、NestJS、Three.js、Jotai、TypeScript 等…
-
----
-
-## 🚧 当前重点
-
-| 状态 | 项目 | 描述 |
-|------|------|------|
-| 🟢 生产 | Mastra AI Agents | 多智能体 RAG，<50ms 检索 |
-| 🟡 开发 | 无服务器交易引擎 | 基于事件驱动的 Wyckoff 分析运行于 Lambda |
-| 🟢 生产 | 3D 数据可视化器 | Three.js 支持 10 万点 @ 60fps |
+> 其他技术：NestJS、Vue、Three.js、Jotai、TypeScript 等…
 
 ---
 
@@ -61,4 +60,3 @@
 **感谢访问！一起构建未来** 🚀
 
 </div>
-
