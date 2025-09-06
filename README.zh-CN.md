@@ -4,10 +4,10 @@
 
 ## 🏆 履历与亮点
 
-- 精通高性能 Web 开发与无服务器架构：打造的 React/Next.js 微前端应用实现无缝体验与亚秒级 HMR；通过 AWS CDK 架构的无服务器后端确保 <50ms API 响应
-- 2025 年 Monad Hackathon 深圳站第一名
-- AI 驱动开发：精通 Claude Code、Kilo Code、Codex CLI、Augment Code 等 AI 编程工具；
-- 现代化 AI 应用：构建公司内部客服 Agentic RAG 应用，实现高质量客服服务
+- 高性能 Web 与 Serverless：构建 React/Next.js 微前端，带来无缝体验与亚秒级 HMR；基于 AWS CDK 的 Serverless 后端实现 < 200 ms API 响应。
+- 2025 年 Monad Hackathon（深圳站）冠军。
+- AI 驱动开发：精通 Claude Code、Kilo Code、Codex CLI、Augment Code 等工具，沉淀可复用的工程化最佳实践。
+- 现代化 AI 应用：落地企业内客服型 Agentic RAG，显著提升服务质量与响应效率。
 
 ## 🌐 核心技术栈
 
@@ -31,8 +31,8 @@
 
 #### 开源项目
 
-- [现代 SPA 架构](https://github.com/lfhwnqe/spa-temp)
-- [基于 AWS CDK 的 Serverless 模板](https://github.com/lfhwnqe/aws-cdk-nestjs-template)
+- [现代 SPA 架构 React 模板](https://github.com/lfhwnqe/spa-temp)
+- [基于 AWS CDK 的 Nestjs Serverless 模板](https://github.com/lfhwnqe/aws-cdk-nestjs-template)
 - [基于 AWS Amplify 的 Next.js 快速启动管理模板](https://github.com/lfhwnqe/aws-nextjs-amplify-template)
 
 > 其他技术：NestJS、Vue、Three.js、Jotai、TypeScript 等…
